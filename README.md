@@ -10,5 +10,7 @@
    - https://github.com/hoangbossemo/iOS-libraries/blob/master/iOS%20opensource.md
 - #5. Các thư viện liên quan đến Animation, Effect
    - https://github.com/hoangbossemo/iOS-libraries/blob/master/iOS%20Animation%20libraries.md
-- #6. Các sample Apple Watch
+- #6. Các Plugins cho XCode
+   - https://github.com/hoangbossemo/iOS-libraries/blob/master/XCode%20plugins.md
+- #7. Các sample Apple Watch
    - (Updating)
