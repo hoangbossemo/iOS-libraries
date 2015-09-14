@@ -1,6 +1,6 @@
 # Contents
 
-- [Awesome Swift](#awesome-swift)
+- [Contents](#Contents)
 	- [UI](#ui)
 	- [JSON/XML Manipulation](#jsonxml-manipulation)
 	- [Databases](#databases)
