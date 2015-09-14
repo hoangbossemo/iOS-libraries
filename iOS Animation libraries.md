@@ -1,12 +1,6 @@
-# awesome-ios-animation
+# Contents
 
 A curated list of awesome iOS animation, including Objective-C and Swift libraries
-
-> 收集整理了下iOS平台下比较主流炫酷的几款动画框架。
-
-> 排名先后顺序按个人喜好，不代表大众意愿。望见谅！
-
-> 该列表不定期更新！
 
 https://github.com/facebook/pop
 
